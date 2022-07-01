@@ -1,4 +1,4 @@
-![I am Solidity & Go developer](https://github.com/devlongs/devlongs/blob/main/0_Zz8sk_yha5sJhNE6.jpeg?raw=true)
+![I am Solidity & Go developer](https://github.com/devlongs/devlongs/blob/main/cropp.jpeg?raw=true)
 
 ### Hi there 👋, my name is Longs
 #### I am Solidity & Go developer

@@ -1,4 +1,4 @@
-![I am Solidity & Go developer](https://pbs.twimg.com/media/EUD5jtpWkAEuqDL?format=jpg&name=900x900)
+![I am Solidity & Go developer](https://github.com/devlongs/devlongs/blob/main/0_Zz8sk_yha5sJhNE6.jpeg?raw=true)
 
 ### Hi there 👋, my name is Longs
 #### I am Solidity & Go developer

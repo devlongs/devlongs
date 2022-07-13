@@ -8,9 +8,9 @@ I build unbreakable promises with Solidity and Ethereum. I also build softwares 
 Skills: Solidity / Ethers.js / Go / Javascript / React / CSS / TailwindCSS.
 
 - 🔭 I’m currently working on a DEFI project. 
-- 🌱 I’m currently learning Solidity & Go. 
+- 🌱 I’m currently learning alot of things. 
 - 👯 I’m looking to collaborate on anything Solidity or Go. 
-- 🤔 I’m looking for help with Solidity & Go. 
+- 🤔 I’m looking for help with anything I got stucked with. 
 - 💬 Ask me about Javascript, Solidity & Go.
 - 📫 How to reach me: developerlongs@gmail.com 
 - 😄 Pronouns: he/him 

@@ -1,17 +1,17 @@
 ![I am Solidity & Go developer](https://github.com/devlongs/devlongs/blob/main/cropp.jpeg?raw=true)
 
 ### Hi fren 👋, my name is Longs.
-#### I am a Solidity & a Go developer.
+#### I am a Solidity & Rust developer.
 
-I build unbreakable promises with Solidity and Ethereum. I also build softwares that people love to use with Go. Typically, I am not shy away from doing hard stuffs; I love building solutions to harder problems.
+I build unbreakable promises with Solidity and Rust.
 
 Skills: Solidity / Ethers.js / Go / Javascript / React / CSS / TailwindCSS.
 
 - 🔭 I’m currently working on a DEFI project. 
 - 🌱 I’m currently learning alot of things. 
-- 👯 I’m looking to collaborate on anything Solidity or Go. 
+- 👯 I’m looking to collaborate on anything Solidity or Rust. 
 - 🤔 I’m looking for help with anything I got stucked with. 
-- 💬 Ask me about Javascript, Solidity & Go.
+- 💬 Ask me about Javascript, Solidity.
 - 📫 How to reach me: developerlongs@gmail.com 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I can blow the trumpet and play soccer too 😄. 

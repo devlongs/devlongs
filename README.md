@@ -5,7 +5,7 @@
 
 I build unbreakable promises with Solidity and Rust.
 
-Skills: Solidity / Ethers.js / Go / Javascript / React / CSS / TailwindCSS.
+Skills: Solidity / Rust / Javascript / CSS / React / CSS / TailwindCSS / Nodejs.
 
 - 🔭 I’m currently working on a DEFI project. 
 - 🌱 I’m currently learning alot of things. 

@@ -1,5 +1,5 @@
 ### Hi fren 👋, my name is Longs.
-#### I am a Solidity & Rust developer.
+#### I am a Solidity & Go developer.
 
 I build unbreakable promises with Solidity and Rust.
 

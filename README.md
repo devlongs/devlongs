@@ -1,5 +1,3 @@
-![I am Solidity & Go developer](https://github.com/devlongs/devlongs/blob/main/cropp.jpeg?raw=true)
-
 ### Hi fren 👋, my name is Longs.
 #### I am a Solidity & Rust developer.
 

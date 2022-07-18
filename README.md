@@ -19,8 +19,6 @@ Skills: Solidity / Go / Javascript / CSS / React / CSS / TailwindCSS / Nodejs.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devlongs&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devlongs)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devlongs)  
 
 ![Profile views](https://gpvc.arturio.dev/devlongs)  

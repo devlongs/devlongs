@@ -5,13 +5,13 @@
 
 I build unbreakable promises with Solidity and Rust.
 
-Skills: Solidity / Rust / Javascript / CSS / React / CSS / TailwindCSS / Nodejs.
+Skills: Solidity / Go / Javascript / CSS / React / CSS / TailwindCSS / Nodejs.
 
-- 🔭 I’m currently working on a DEFI project. 
-- 🌱 I’m currently learning alot of things. 
-- 👯 I’m looking to collaborate on anything Solidity or Rust. 
+- 🔭 I’m currently working on a donation dapp. 
+- 🌱 I’m currently learning solidity & Go. 
+- 👯 I’m looking to collaborate on anything that is useful and will make me grow. 
 - 🤔 I’m looking for help with anything I got stucked with. 
-- 💬 Ask me about Javascript, Solidity.
+- 💬 Ask me about Solidity & Go.
 - 📫 How to reach me: developerlongs@gmail.com 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I can blow the trumpet and play soccer too 😄. 

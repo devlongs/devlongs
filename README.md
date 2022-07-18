@@ -1,5 +1,5 @@
 ### Hi fren 👋, my name is Longs.
-#### I am a Solidity.
+#### I am a Solidity developer.
 
 I build unbreakable promises with Solidity.
 

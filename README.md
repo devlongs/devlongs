@@ -2,7 +2,7 @@
 
 I build unbreakable promises with Solidity.
 
-Skills: Solidity.
+Skills: Solidity / Truffle / Ganache / Web3.js 
 
 - 🔭 I’m currently working on a donation dapp. 
 - 🌱 I’m currently learning solidity.

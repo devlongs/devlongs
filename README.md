@@ -1,6 +1,6 @@
-### Hi fren 👋, my name is Longs.
+### My name is Longs Pemun Gotar
 
-I build unbreakable promises with Solidity.
+I live and breathe smart contracts.
 
 Skills: Solidity / Truffle / Ganache / Web3.js 
 

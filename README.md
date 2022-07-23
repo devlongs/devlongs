@@ -18,4 +18,3 @@ Skills: Solidity / Truffle / Ganache / Web3.js
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devlongs)  
 
-![Profile views](https://gpvc.arturio.dev/devlongs)  

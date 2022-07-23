@@ -16,8 +16,6 @@ Skills: Solidity / Truffle / Ganache / Web3.js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlongs)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devlongs&show_icons=true)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devlongs)  
 
 ![Profile views](https://gpvc.arturio.dev/devlongs)  

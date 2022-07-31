@@ -2,7 +2,7 @@
 
 I live and breathe smart contracts.
 
-Skills: Solidity / Truffle / Ganache / Web3.js 
+Skills: Solidity / Go / React 
 
 - 🔭 I’m currently working on a donation dapp. 
 - 🌱 I’m currently learning solidity.

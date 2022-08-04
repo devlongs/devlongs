@@ -1,4 +1,4 @@
-### My name is Longs Pemun Gotar
+### Longs Pemun
 
 I live and breathe smart contracts.
 
@@ -12,9 +12,4 @@ Skills: Solidity / Go / React
 - 📫 How to reach me: developerlongs@gmail.com 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I can blow the trumpet and play soccer too 😄. 
- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlongs)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devlongs)  
 

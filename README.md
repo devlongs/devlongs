@@ -10,4 +10,4 @@
 
 I juggle between solidity and golang. That's my life in a nutshell; an interesting one right? 😊
 
-I love to build solutions to real problems. Outside of coding, I am an avid Chelsea fan, and like to hangout with friends too.
+I love to build solutions to real problems. Outside of coding, I am a passionate Chelsea fan, and like to hangout with friends too.

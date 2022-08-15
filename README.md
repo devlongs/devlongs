@@ -1,20 +1,4 @@
-<h1 align='center'>Longs Pemun</h1>
-
-I live and breathe smart contracts.
-
-Skills: Solidity / Go / React 
-
-- 🔭 I’m currently working on a donation dapp. 
-- 🌱 I’m currently learning solidity.
-- 👯 I’m looking to collaborate on anything that is useful and will make me grow. 
-- 🤔 I’m looking for help with anything I got stucked with. 
-- 💬 Ask me about Solidity.
-- 📫 How to reach me: developerlongs@gmail.com 
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: I can blow the trumpet and play soccer too 😄. 
-
- -->
- <h2> Hi there 👋, I'm Longs Pemun! </h2>
+ <h1 align="center"> Hi there 👋, I'm Longs Pemun! </h1>
     
 [![Longs Pemun Gotar](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/longs-pemun-gotar-a36426139/)
 [![Longs Pemun Gotar Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/longspemungotar)

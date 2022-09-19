@@ -10,5 +10,5 @@
 
 I enjoy writing smart contracts (especially with the diamond standard 💎).
 
-I'm a developer that loves simplifying things. I love breaking down complex problems into simple, easy to understand solutions. 
-Aside coding, I love to hangout with friends & family, play and watch soccer games.
+I am a developer that loves simplifying things. I love breaking down complex problems into simple, easy to understand solutions. 
+Aside from coding, I love to hangout with friends & family, play and watch soccer games.

@@ -10,4 +10,4 @@
 
 I enjoy writing smart contracts (especially with the diamond standard 💎).
 
-I love to build solutions to real-world problems. I don't shy away from trying difficult things too. Outside of coding, I am a passionate Chelsea fan, and like to hangout with friends and family.
+I'm a developer that loves simplifying things. I love breaking down complex problems into simple, easy to understand solutions. 

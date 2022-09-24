@@ -11,4 +11,4 @@
 I love to build practical web3 applications(especially using the Diamond Standard 💎).
 
 I am a developer that loves simplifying things. I like breaking down complex problems into simple, easy to understand solutions. 
-Aside from coding, I love to hangout with friends & family, play and watch soccer games.
+Aside from coding, I love to hangout with friends & family, play and watch soccer matches.

@@ -14,3 +14,5 @@ I am skilled at developing and maintaining Geth nodes, and have experience worki
 I have a good understanding of the Ethereum blockchain and its underlying technology. Adept at utilizing various Geth commands and APIs to interact with the Ethereum network. 
 
 I have a strong passion for blockchain technology and its potential to revolutionize the way we conduct business and exchange value. Active member of the Ethereum community and contribute to open-source projects.
+
+I also enjoy building robust backend services with Go. Apart from coding, I love to hangout with family anf friends.

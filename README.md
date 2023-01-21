@@ -9,7 +9,7 @@
 <b>Engineering with Go & Solidity</b> <br /><br />
 I am skilled at developing and maintaining Geth nodes, and have experience working with Ethereum's decentralized applications and smart contracts. 
 
-I have a good understanding of the Ethereum blockchain and its underlying technology. Adept at utilizing various Geth commands and APIs to interact with the Ethereum network. 
+I have a good understanding of the Ethereum blockchain and it's underlying technology. Adept at utilizing various Geth commands and APIs to interact with the Ethereum network. 
 
 I have a strong passion for blockchain technology and its potential to revolutionize the way we conduct business and exchange value. Active member of the Ethereum and Go community and contribute to open-source projects.
 

@@ -13,4 +13,4 @@ I have a good understanding of the Ethereum blockchain and it's underlying techn
 
 I have a strong passion for blockchain technology and its potential to revolutionize the way we conduct business and exchange value. Active member of the Ethereum and Go community and contribute to open-source projects.
 
-I also enjoy building robust backend services with Go. Apart from coding, I love to hangout with family anf friends.
+I also enjoy building robust backend services with Go. Apart from coding, I love to hangout with family and friends.

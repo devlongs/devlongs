@@ -5,6 +5,8 @@
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
 <b>Engineering with Go & Solidity</b> <br /><br />
-I have a deep hands-on understanding of the Ethereum's inner workings, from the official execution client GETH to the consensus engine. I Focused on protocol-level development to improve security, scalability, and performance. Additionally, I have a thorough knowledge of Optimism's OP Stack, which is the set of software that powers Optimism and significantly simplifies the process of creating L2 blockchains.
+As an Ethereum core developer, I have a deep hands-on understanding of the Ethereum's inner workings, from the official execution client GETH to the consensus engine. I Focused on protocol-level development to improve security, scalability, and performance. Additionally, I have a thorough knowledge of Optimism's OP Stack, which is the set of software that powers Optimism and significantly simplifies the process of creating L2 blockchains.
+
+On the Go side of things, I a mostly interested in building networking & API backends, microservices and CLI tools.
 
 I also enjoy building robust backend services with Go, building production-ready APIs. Apart from coding, I love to hangout with family and friends.

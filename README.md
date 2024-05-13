@@ -7,6 +7,5 @@
 <b>Engineering with Go & Ethereum</b> <br /><br />
 I maintain and develop new features for go-ethereum based blockchains, Hyperledger Fabric, Cosmos SDK and Quorum.
 
-I also integrate blockchain technology into existing systems to enhance transparency and efficiency. I focuse on protocol-level development as well as writing clean and secure smart contracts with Solidity.
+I focuse on protocol-level development as well as building fast and reliable backend services, building production-ready APIs, Building CLI tools and micro-services.
 
-I also enjoy building fast and reliable backend services with Go, building production-ready APIs, building CLI tools and micro-services.

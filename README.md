@@ -5,7 +5,7 @@
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
 <b>Engineering with Go, Solidity & Ethereum</b> <br /><br />
-I maintain and develop new features for go-ethereum based blockchains, Hyperledger Fabric, Cosmos SDK and Quorum.
+I maintain and develop new features for go-ethereum based blockchains.
 
-I focuse on protocol-level development as well as building fast and reliable backend services, building production-ready APIs, Building CLI tools and micro-services.
+I focuse on protocol-level development as well as building fast and reliable backend services, building production-ready APIs, Building CLI tools.
 
